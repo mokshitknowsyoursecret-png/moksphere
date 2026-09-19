@@ -15,4 +15,4 @@ A modern, interactive web application to track personal expenses, categorize spe
 * [Chart.js](https://www.chartjs.org/) (Data Visualization)
 
 ## 🚀 Live Demo
-*(You will paste your live link here in the next step!)*
+https://mokshitknowsyoursecret-png.github.io/moksphere/
